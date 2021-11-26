@@ -16,6 +16,9 @@ Desenvolvido por Grupo Guaxinins da Fatec Santana de Parnaiba
   
   * react-native
 
+## Video do Projeto
+  
+  https://www.linkedin.com/posts/alessandro-de-sousa-da-silva-505a2671_javacript-typescript-activity-6870007260765016064-KTlX
 
-❤️ Fatec Santana de Parnaiba  😊
+❤️ Agradecimentos à Fatec Santana de Parnaiba  😊
  
