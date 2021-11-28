@@ -10,7 +10,7 @@
 
 ## 📦 Desenvolvimento
 
-Desenvolvido por Grupo Guaxinins da Fatec Santana de Parnaiba
+Desenvolvido por Grupo [Guaxinim](https://github.com/orgs/artesao-ti/teams/guaxinim) da Fatec Santana de Parnaiba
 
 ## 🛠️ Construído com
   
@@ -18,7 +18,9 @@ Desenvolvido por Grupo Guaxinins da Fatec Santana de Parnaiba
 
 ## Video do Projeto
   
-  https://www.linkedin.com/posts/alessandro-de-sousa-da-silva-505a2671_javacript-typescript-activity-6870007260765016064-KTlX
+  [<img src="https://j.gifs.com/r2Mmjp.gif" width="25%"/>](https://www.linkedin.com/posts/alessandro-de-sousa-da-silva-505a2671_javacript-typescript-activity-6870007260765016064-KTlX)
 
-❤️ Agradecimentos à Fatec Santana de Parnaiba  😊
+## ❤️**Agradecimentos à Fatec Santana de Parnaiba**  😊
+
+### [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFuCUvDL_O0rw/company-logo_200_200/0/1576524230054?e=2159024400&v=beta&t=WVrUjsJhm5SCZgnX1Qfaan4fRcOeK6OFSITsR90dPTw"/>](https://www.fatecsdp.edu.br/)
  
